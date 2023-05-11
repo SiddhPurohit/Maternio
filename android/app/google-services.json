@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037919704137",
+    "project_id": "maternio-bb59c",
+    "storage_bucket": "maternio-bb59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037919704137:android:2188d8be8773f44d685b98",
+        "android_client_info": {
+          "package_name": "com.maternio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037919704137-jradvvf8sefnbis2g0ta7tppshj6h85t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9K2dcwr1mjiu6Qn9RGhN3YIaQ5EkXKHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037919704137-jradvvf8sefnbis2g0ta7tppshj6h85t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

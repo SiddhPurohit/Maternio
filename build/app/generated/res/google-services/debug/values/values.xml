@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1037919704137-jradvvf8sefnbis2g0ta7tppshj6h85t.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1037919704137</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9K2dcwr1mjiu6Qn9RGhN3YIaQ5EkXKHI</string>
+    <string name="google_app_id" translatable="false">1:1037919704137:android:2188d8be8773f44d685b98</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9K2dcwr1mjiu6Qn9RGhN3YIaQ5EkXKHI</string>
+    <string name="google_storage_bucket" translatable="false">maternio-bb59c.appspot.com</string>
+    <string name="project_id" translatable="false">maternio-bb59c</string>
+</resources>
